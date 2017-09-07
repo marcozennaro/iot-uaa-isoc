@@ -14,11 +14,12 @@
 INTRODUCTION
   * Opening
   * Presentation of course resources and materials
-  * Introduction to IoT
+  * Introduction to IoT (slides)
   * [Course resources and materials (TBD)](./labs/resources.md)
 
 TRAINING ENVIRONMENT SETUP
   * Introdution to Pycom development and expansion board (LoPy, Pysense, ...)
+  * Introduction to microPython and why Pycom
   * Introduction to Raspberry PI
   * [Setup (TBD)](setup.md)
   * [Troubleshooting (TBD)](troubleshooting.md)
@@ -33,7 +34,8 @@ IoT LABS
  
 ## [Day 2](agenda.md) 
 PRESENTATIONS
-  * Radio propagation and antenna
+  * Link Budget Calculation and antennas
+  * Radio Link Planning with RFBot
 
 PYTHON 101
   * Python statements
@@ -46,7 +48,6 @@ IoT LABS
 ## [Day 3](agenda.md) 
 PRESENTATIONS
   * Wireless standards for IoT: WiFi, BLE, SigFox, NB-IoT and LoRa
-  * Radio Link Planning with RFBot
   
 PYTHON 101
   * Abstraction with functions
